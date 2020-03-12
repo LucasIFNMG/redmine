@@ -1,10 +1,10 @@
-#Análise Documental no Redmine
+# Análise Documental no Redmine
 
 A análise de documentos é um dos primeiros passos na elicitação de requisitos. A partir dela, é possível nivelar o conhecimento do analista em relação às regras de negócios.
 
 Além disso, o analista conseguirá levantar um banco de questões, que poderão ser resolvidas posteriormente através das outras técnicas de elicitação.
 
-É interessante a criação de um documento de Memória de Levantamento, para relacionar os documentos analisados com informações importantes, como a sua descrição, progresso de análise e onde encontrá-lo .
+É interessante a criação de um documento de **Memória de Levantamento**, para relacionar os documentos analisados com informações importantes, como a sua descrição, progresso de análise e onde encontrá-lo .
 
 1) Primeiro você deverá criar o repositório no Redmine. Se preferir, acesse o tutorial de como fazer isso.
 
