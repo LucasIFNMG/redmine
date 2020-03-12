@@ -30,6 +30,7 @@ Verifique se foi criada a nova pasta utilizando o '-ls' .
 ```
 pwd
 ```
+*Dica: você pode acessar pastas pelo terminal através do comando cd nome-da-pasta . Experimente digitar cd + primeiras letras da pasta + TAB*
 5) Agora você tem tudo em mãos! Volte no redmine e, na aba de criação de um Novo Repositório, preencha os dados.
 
 **IMPORTANTE: no 'Caminho para o repositório', adicione /.git no final do diretório.** No meu caso:
