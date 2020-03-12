@@ -23,7 +23,7 @@ Lembre-se que um contêiner é como se fosse uma 'mini máquina virtual'. Se qui
 ```
 git clone https://github.com/LucasIFNMG/redmine
 ```
-Verifique se foi criada a nova pasta utilizando o '-ls' .
+Verifique se foi criada a nova pasta utilizando o comando '-ls' .
 
 4) Dentro do repositório, utilize o comando abaixo para verificar o diretório dele.
 
