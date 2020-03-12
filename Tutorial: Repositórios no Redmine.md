@@ -5,8 +5,6 @@ Este tutorial irá mostrar como criar um repositório Git no Redmine. Lembre-se 
 
 1) Depois de logado no redmine, Clique em 'Configurações' -> 'Repositórios' -> 'Novo repositório'
 
-É necessário que você informe o diretório em que o repositório local será criado (dentro do contêiner!)
-
 2) No terminal, execute o seguinte comando para acessar o contêiner através do docker 
 
 ```
@@ -20,7 +18,7 @@ $ sudo docker images
 
 Lembre-se que um contêiner é como se fosse uma 'mini máquina virtual'. Se quiser, você pode verificar os arquivos existentes no contêiner digitando '-ls'
 
-3) Agora que você está acessando o contêiner, você poderá utilizar comandos do Git normalmente. Você pode, por exemplo, criar um novo repositório ('git init') ou clonar um já existente ('git clone'). Exemplo:
+3) Agora que você está acessando o contêiner, você poderá utilizar comandos do Git normalmente. Você pode, por exemplo, criar um novo repositório utilizando 'git init' ou clonar um já existente com o 'git clone'. Exemplo:
 
 ```
 git clone https://github.com/LucasIFNMG/redmine
