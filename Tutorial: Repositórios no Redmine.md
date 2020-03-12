@@ -3,9 +3,9 @@ Por repositório entende-se “um espaço que é usado para armazenar/guardar/ar
 
 Este tutorial irá mostrar como criar um repositório Git no Redmine. Lembre-se que você poderá armazenar **imagens, documentos, planilhas, códigos ou outros tipos de arquivos** neste repositório.
 
-1) Depois de logado no redmine, Clique em 'Configurações' -> 'Repositórios' -> 'Novo repositório'
+1) Depois de logado no redmine, Clique em 'Configurações' -> 'Repositórios' -> 'Novo repositório'.
 
-2) No terminal, execute o seguinte comando para acessar o contêiner através do docker 
+2) No terminal, execute o seguinte comando para acessar o contêiner através do docker:
 
 ```
 $ sudo docker container exec -it nome-do-seu-contêiner bash
@@ -16,7 +16,7 @@ Caso não saiba o nome do seu contêiner, utilize o comando abaixo. O nome estar
 $ sudo docker images
 ```
 
-Lembre-se que um contêiner é como se fosse uma 'mini máquina virtual'. Se quiser, você pode verificar os arquivos existentes no contêiner digitando '-ls'
+Lembre-se que um contêiner é como se fosse uma 'mini máquina virtual'. Se quiser, você pode verificar os arquivos existentes no contêiner digitando '-ls' .
 
 3) Agora que você está acessando o contêiner, você poderá utilizar comandos do Git normalmente. Você pode, por exemplo, criar um novo repositório utilizando 'git init' ou clonar um já existente com o 'git clone'. Exemplo:
 
@@ -30,7 +30,7 @@ Verifique se foi criada a nova pasta utilizando o '-ls' .
 ```
 pwd
 ```
-*Dica: você pode acessar pastas pelo terminal através do comando cd nome-da-pasta . Experimente digitar cd + primeiras letras da pasta + TAB*
+*Dica: você pode acessar as pastas pelo terminal através do comando **cd nome-da-pasta** . Experimente digitar **cd + primeiras letras da pasta + TAB** para auto-completar* .
 
 5) Agora você tem tudo em mãos! Volte no redmine e, na aba de criação de um Novo Repositório, preencha os dados.
 
