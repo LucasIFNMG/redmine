@@ -4,7 +4,7 @@ A análise de documentos é um dos primeiros passos na elicitação de requisito
 
 Além disso, o analista conseguirá levantar um banco de questões, que poderão ser resolvidas posteriormente através das outras técnicas de elicitação.
 
-É interessante a criação de um documento de **Memória de Levantamento**, para relacionar os documentos analisados com informações importantes, como a sua descrição, progresso de análise e onde encontrá-lo .
+É interessante a criação de um documento de **Memória de Levantamento**, para relacionar os documentos analisados com informações importantes, como a sua descrição, progresso de análise e onde encontrá-lo.
 
 1) Primeiro você deverá criar o repositório no Redmine. Se preferir, acesse o tutorial de como fazer isso.
 
@@ -14,7 +14,7 @@ Além disso, o analista conseguirá levantar um banco de questões, que poderão
 
 4) Clique na aba 'Projetos' -> Selecione o seu Projeto -> Clique em 'Documentos' -> 'Novo Documento' .
 
-5) Preencha os dados requeridos. Você também pode anexar algum arquivo. Finalize a criação clicando em 'Criar' .
+5) Preencha os dados requeridos. Você também pode anexar algum arquivo. Finalize o processo clicando em 'Criar' .
 
-
-![](https://github.com/LucasIFNMG/redmine/blob/master/Imagens/imagemAPOO.png)
+Exemplo de Layout citado pelo livro de Engenharia de Requisitos:
+![](https://github.com/LucasIFNMG/redmine/blob/master/Imagens/LayoutMemoriaLevantamento.png)
