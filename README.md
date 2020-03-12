@@ -39,6 +39,5 @@ IMPORTANTE: no 'Caminho para o repositório', adicione /.git no final do diretó
 ```
 /usr/src/redmine/repositorio/.git
 ```
-6) Finalize a criação do repositório. Perceba que será exibido uma lista dos seus repositórios, na qual você poderá editar/excluir qualquer um deles. Lembre que você pode ter vários repositórios no redmine.
+6) Finalize a criação do repositório. Perceba que será exibido uma lista dos seus repositórios, na qual você poderá editar/excluir qualquer um deles. Lembre-se que você pode ter vários repositórios no redmine. Para acessá-los, vá na aba 'Repositório'.
 
-Você poderá acessar os seus repositórios na aba 'Repositório', bem como selecionar qualquer um ao clicar no nome dele.
