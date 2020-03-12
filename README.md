@@ -1,7 +1,7 @@
 # Criando Repositórios no Redmine
 Por repositório entende-se “um espaço que é usado para armazenar/guardar/arquivar coisas diferentes.Atualmente costuma-se fazer referência às bases de dados digitais e a diversos sistemas informáticos como repositórios.”
 
-Este tutorial irá mostrar como criar um repositório Git no Redmine.
+Este tutorial irá mostrar como criar um repositório Git no Redmine. Lembre-se que você poderá armazenar imagens, documentos, planilhas ou outros tipos de arquivo neste repositório.
 
 1) Depois de logado no redmine, Clique em 'Configurações' -> 'Repositórios' -> 'Novo repositório'
 
